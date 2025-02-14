@@ -16,7 +16,11 @@
     1. Tomar datos
     2. Procesar datos
     3. Mostrar resultados
+- el codigo debe tener menu en la clase principal 
+- se debe escoger el ejercicio que se desea ejecutar
 */
+
+
 package tiendaejercicios;
 
 //se crea la clase
